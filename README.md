@@ -18,3 +18,22 @@ Languange : Java
 
 Images of the game:
 
+Essa imagem ilustra a primeira versao do jogo com os movimentos definidos para o jogador 1:
+This image illustrates the first version of the game with the moves defined for player 1:
+
+![Default imagem](./imagem1.png)
+
+Nesta ultima versão procurei simplificar tudo e focar apenas em fazer eles jogarem, por isso a interface é bem simples!
+In this latest version I tried to simplify everything and just focus on making them play, so the interface is very simple!
+
+![Primeira imagem](./print1.png)
+
+![Segunda imagem](./print2.png)
+
+![Terceira imagem](./print3.png)
+
+Obrigada pela visita, volte sempre! E não esquece de deixar uma estrelinha para mim!
+
+Thanks for visiting, come back soon! And don't forget to give me a star!
+
+## Social networks 
